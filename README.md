@@ -1,1 +1,1 @@
-# Node.js/Express Backend Template
+# Node.js/Express + Typescript Backend Template
